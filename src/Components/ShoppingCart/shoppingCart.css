@@ -1,0 +1,42 @@
+.bckgrnddivcart {
+    background-color:darkslategray;
+    position: relative;
+}
+
+.shoph1 {
+color: white;
+background-color: darkred;
+border-radius: 10px;
+border: 2px solid black;
+padding: 10px;
+width: 300px;
+text-align: center;
+position: absolute;
+left: 50%;
+transform: translate(-50%);
+}
+
+.productscart {
+border: 2px solid green;
+padding: 20px;
+position: absolute;
+top: 25%;
+left: 35%;
+}
+
+.dltitembtn {
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+
+.rmvbtn {
+background-color: red;
+border-radius: 5px;
+color: white;
+padding: 10px;
+position: absolute;
+top: 550px;
+left: 500px;
+}

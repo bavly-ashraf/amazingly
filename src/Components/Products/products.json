@@ -1,0 +1,18 @@
+[
+    {
+    "title": "Adidas HOOPS MID 3.0 K GW0402 BASKETBALL",
+    "id": "Sneakers",
+    "image": "Adidas",
+    "description": "Add some court-inspired style to your young B-ball fan's wardrobe. These kids' adidas sneakers bring the support and stability of a basketball shoe to an everyday sneaker. The synthetic leather upper gives them an elevated look while keeping the shoes lightweight enough for easy movement. A mid-top silhouette hearkens back to the golden age of basketball greats.",
+    "price": "1380.00"
+  },
+  {
+    "title": "HP ENVY x360 13m-bd1033dx 2in1 convertable laptop",
+    "id": "Laptops",
+    "image": "HPLaptop",
+    "description": "11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, 13.3'' FHD OLED Multiouch, Intel Iris Xe Graphics, FingerPrint, Backlit English keyboard, Windows 11",
+    "price": "28000.00"
+
+  }
+
+]

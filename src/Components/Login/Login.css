@@ -1,0 +1,76 @@
+.Container {
+    z-index: -1;
+    margin: auto;
+    height: 629px;
+    background-color: #0F1111;
+
+}
+
+.h1welcome {
+    color:#0F1111;
+}
+
+.Login {
+    
+    background-color: rgb(240, 240, 240);
+    color:#0F1111;
+    text-align: center;
+    justify-content: start;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 0;
+    width: 50%;
+    border: 2px solid rgb(128, 108, 0);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+.emailtxt {
+    padding: 10px;
+    position: absolute;
+    top: 48%;
+    left: 35%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+.emailinput {
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+.passtxt {
+    padding: 10px;
+    position: absolute;
+    top: 60%;
+    left: 33%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    }
+
+.lgnbtn {
+    background-color: green;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    transition: width 2s;
+    transition: color 2s;
+}
+
+.lgnbtn:hover {
+    width: 100px;
+    background-color: darkgreen;
+}
+
+.disabledbtn {
+    background-color: gray;
+    border-radius: 10px;
+    color: black;
+    padding: 10px;
+}

@@ -1,0 +1,21 @@
+.signh1 {
+margin: auto;
+margin-left: auto;
+}
+
+.formclass {
+margin: auto;
+}
+
+.signbtn {
+color: white;
+background-color: blue;
+border-radius: 10px;
+padding: 10px;
+border: 2px solid white;
+transition: color 2s;
+}
+
+.signbtn:hover {
+    background-color: darkblue;
+}

@@ -1,0 +1,52 @@
+.bckgrnddiv{
+    background-color: #00002b;
+    margin: auto;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+}
+
+
+.productsdiv {
+    background-color: #00002b;
+    color: white;
+    text-align: center;
+}
+
+.h1welcome2 {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    color: #ffa500;
+    background-color: rgb(243, 243, 243);
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+
+.prodimg {
+    width: 300px;
+}
+
+.addbtn {
+    color: white;
+    background-color: #ffa500;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.addbtn:hover {
+    color: black;
+    background-color: white;
+    transition: all 200ms ease-in-out;
+}
+
+.addbtn:active {
+    color: white;
+    background-color: gray;
+    transition: all 20ms ease-in-out;
+}
